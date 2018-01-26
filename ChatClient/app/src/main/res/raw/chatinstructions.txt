@@ -1,0 +1,15 @@
+In main screen one has to write IP of
+server and then press connect button.
+
+First create username with command:
+:user user_name. After that one can start
+sending messages.
+
+Command to obtain message history
+:messages
+
+Command to obtain user list:
+:users
+
+When one quits, one can write
+:quit

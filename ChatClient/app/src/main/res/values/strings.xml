@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat Away</string>
+    <string name="ipaquiredstring">IP:</string>
+    <string name="portaquiredstring">Port:</string>
+    <string name="connctbuttontext">Connect</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="chat_label">IN:</string>
+    <string name="sendbuttonstring">send</string>
+    <string name="instructionsstring">Instructions</string>
+    <string name="title_activity_instructions">InstructionsActivity</string>
+</resources>
